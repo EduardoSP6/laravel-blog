@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/laravel5-express.iml" filepath="$PROJECT_DIR$/.idea/laravel5-express.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pedidos-delivery/.idea/pedidos-delivery.iml" filepath="$PROJECT_DIR$/../pedidos-delivery/.idea/pedidos-delivery.iml" />
     </modules>
   </component>
 </project>
